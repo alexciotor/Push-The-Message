@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    color: black;
+    background-color: rgb(100, 166, 211)
+}
+
+.container{
+    background-color: white;
+    width: 70%;
+    margin: auto;
+    height: 300px;
+    text-align: center;
+    margin-top: 25vh;
+   
+}
+
+
+h1{
+    font-size: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#value{
+    width: 60%;
+    height: 30px;
+}
+
+.list{
+  
+    height: 45px;;
+
+
+}
+
+#element{
+    padding-top: 10px;
+    list-style: none;
+}
